@@ -1,1 +1,3 @@
 # Slovko-2023
+
+This paper introduces a technique for automatic verbal governance extraction in the Russian language, which encapsulates information on the grammatical features of verb-noun co-occurrences, encompassing both prepositional and non-prepositional dependencies. The construction of the dictionary, a corpus of approximately 3.5 billion words was used. The proposed method involves syntactic parsing of the texts, filtering of resultant outputs, and creating a dictionary of prepositional government. After error filtering, the dictionary contains ca. 18,000 verbs along with NP/PPs governed by these verbs.
